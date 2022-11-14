@@ -1,0 +1,25 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.Queue_-State>
+  <counter>9</counter>
+  <items>
+    <hudson.model.Queue_-BuildableItem>
+      <actions>
+        <hudson.model.CauseAction>
+          <causeBag class="linked-hash-map">
+            <entry>
+              <hudson.model.Cause_-UserIdCause>
+                <userId>abith_kumar</userId>
+              </hudson.model.Cause_-UserIdCause>
+              <int>1</int>
+            </entry>
+          </causeBag>
+        </hudson.model.CauseAction>
+      </actions>
+      <id>9</id>
+      <task class="hudson.model.FreeStyleProject">c-agent-job</task>
+      <inQueueSince>1668426553044</inQueueSince>
+      <buildableStartMilliseconds>1668426553074</buildableStartMilliseconds>
+      <isPending>false</isPending>
+    </hudson.model.Queue_-BuildableItem>
+  </items>
+</hudson.model.Queue_-State>
